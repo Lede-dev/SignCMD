@@ -39,6 +39,52 @@ e.g. /signcmd add Heal!!! heal^%player%
 예) /signcmd add 힐!!! heal^%player%
 ```
 
+# Permissions
+
+## Eng
+
+#### To use signs
+```
+signcmd.user.use
+```
+
+#### To create a sign
+```
+signcmd.op.signchange
+```
+
+#### To change the code written on the sign
+```
+signcmd.op.rewrite.code
+```
+
+#### To change the description on the sign
+```
+signcmd.op.rewrite.text
+```
+
+## Kor
+
+#### 표지판 사용 가능
+```
+signcmd.user.use
+```
+
+#### 표지판 생성 가능
+```
+signcmd.op.signchange
+```
+
+#### 표지판의 코드 변경 가능
+```
+signcmd.op.rewrite.code
+```
+
+#### 표지판의 설명 변경 가능
+```
+signcmd.op.rewrite.text
+```
+
 # Commands
 
 ## Eng
