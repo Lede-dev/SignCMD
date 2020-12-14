@@ -6,6 +6,8 @@ Auther: Lede
 
 Discord: https://discord.gg/ZZc7fBK
 
+Youtube: https://www.youtube.com/channel/UCgwJYHQsbW_cPWfOFXo0XXQ
+
 # How to use
 
 ## Eng
