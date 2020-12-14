@@ -1,12 +1,13 @@
 # SignCMD
 
-It is a Minecraft plugin that allows you to register and use commands on signs.
+## Donate
+> https://www.buymeacoffee.com/Lede
 
-Auther: Lede
+## Youtube
+> https://www.youtube.com/channel/UCgwJYHQsbW_cPWfOFXo0XXQ
 
-Discord: https://discord.gg/ZZc7fBK
-
-Youtube: https://www.youtube.com/channel/UCgwJYHQsbW_cPWfOFXo0XXQ
+## Discord
+> https://discord.gg/ZZc7fBK
 
 # How to use
 
