@@ -16,7 +16,7 @@ Discord: https://discord.gg/ZZc7fBK
 4. In the 3rd and 4th lines, you can freely enter a description.
 
 When registering commands, use the ^ character for spaces.
-e.g. /signcmd add Go^to^spawn warp^custom^spawn
+e.g. /signcmd add GoToSpawn warp^custom^spawn
 
 Players who click on the sign can use %player%
 e.g. /signcmd add Heal!!! heal^%player%
