@@ -68,15 +68,71 @@ Discord: https://discord.gg/ZZc7fBK
  - <text>: You can enter a string including a color code.
 ```
 
-#### Cancels the edit/change command.
+#### Cancels the edit/change command
 ```
 /signcmd cancel <edit/change>
 ```
 
-#### Change the language setting. Default is English.
+#### Change the language setting
 ```
 signcmd lan <kr/en>
+
+ - Default is English
 ```
 
+
+#### 커맨드 코드를 입력한다
+```
+/signcmd add <code> <command>
+
+ - <code>: 중복되지 않는 커스텀 코드를 입력한다.
+ - <command>: 커맨드를 입력한다, 커맨드는 op 권한으로 실행된다.
+```
+
+#### 커맨드 코드를 제거한다
+```
+/signcmd remove <code>
+
+ - <code>: 생성된 코드를 입력한다.
+```
+
+#### 코드 목록을 확인한다
+```
+/signcmd list <page>
+
+ - <page>: 정수를 입력한다.
+```
+
+#### 생성된 코드를 저장한다
+```
+/signcmd save
+```
+
+#### 표지판의 코드를 변경한다
+```
+/signcmd edit <code>
+
+ - <code>: 생성된 코드를 입력한다.
+```
+
+#### 표지판의 설명을 변경한다
+```
+/signcmd change <line> <text>
+
+ - <line>: 3번과 4번라인만 입력 가능하다.
+ - <text>: 컬러코드를 포함한 문자열을 자유롭게 입력할 수 있다.
+```
+
+#### edit/change 커맨드를 취소한다
+```
+/signcmd cancel <edit/change>
+```
+
+#### 언어 설정을 변경한다
+```
+signcmd lan <kr/en>
+
+ - 기본값은 영어이다.
+```
 
 
