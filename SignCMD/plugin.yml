@@ -1,0 +1,13 @@
+name: SignCMD
+version: 1.0
+author: Lede
+main: me.lede.signcmd.Main
+description: Project_AL SignCMD
+api-version: 1.16
+
+commands:
+  signcmd:
+  
+
+  
+    
