@@ -6,9 +6,9 @@ Auther: Lede
 
 Discord: https://discord.gg/ZZc7fBK
 
-## How to use
+# How to use
 
-#### Eng
+## Eng
 ```
 1. Register a command by using the "/signcmd add <code> <command>" command.
 2. Type "signcmd" on the first line of the sign.
@@ -16,7 +16,7 @@ Discord: https://discord.gg/ZZc7fBK
 4. In the 3rd and 4th lines, you can freely enter a description.
 ```
 
-#### Kor
+## Kor
 ```
 1. "/signcmd add <code> <command>" 명령어를 이용하여 명령어를 등록한다.
 2. 표지판의 첫번째 줄에 "signcmd" 를 입력한다.
@@ -24,7 +24,9 @@ Discord: https://discord.gg/ZZc7fBK
 4. 표지판의 3번째와 4번째줄은 자유롭게 설명을 입력한다.
 ```
 
-## Commands
+# Commands
+
+##
 
 #### Add command code
 ```
@@ -80,6 +82,7 @@ signcmd lan <kr/en>
  - Default is English
 ```
 
+## Kor
 
 #### 커맨드 코드를 입력한다
 ```
