@@ -14,6 +14,13 @@ Discord: https://discord.gg/ZZc7fBK
 2. Type "signcmd" on the first line of the sign.
 3. Enter the registered code on the second line of the sign.
 4. In the 3rd and 4th lines, you can freely enter a description.
+
+When registering commands, use the ^ character for spaces.
+e.g. /signcmd add Go^to^spawn warp^custom^spawn
+
+Players who click on the sign can use %player%
+e.g. /signcmd add Heal!!! heal^%player%
+
 ```
 
 ## Kor
@@ -22,6 +29,12 @@ Discord: https://discord.gg/ZZc7fBK
 2. 표지판의 첫번째 줄에 "signcmd" 를 입력한다.
 3. 표지판의 두번째 줄에 생성한 코드를 입력한다.
 4. 표지판의 3번째와 4번째줄은 자유롭게 설명을 입력한다.
+
+커맨드를 등록할 때, ^ 문자를 이용하여 띄어쓰기를 입력할 수 있다.
+예) /signcmd add 스폰으로^이동 warp^custom^spawn
+
+표지판을 클릭한 플레이어는 %player% 를 이용하여 받아올 수 있다.
+예) /signcmd add 힐!!! heal^%player%
 ```
 
 # Commands
