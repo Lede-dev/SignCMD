@@ -48,7 +48,7 @@ e.g. /signcmd add Heal!!! heal^%player%
 signcmd.user.use
 ```
 
-#### To create a sign
+#### To create a sign and use commands
 ```
 signcmd.op.signchange
 ```
@@ -70,7 +70,7 @@ signcmd.op.rewrite.text
 signcmd.user.use
 ```
 
-#### 표지판 생성 가능
+#### 표지판 생성 가능 및 명령어 사용 가능
 ```
 signcmd.op.signchange
 ```
